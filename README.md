@@ -1,4 +1,5 @@
-# <div align="center">Hello World, I'am <span style="color:lime;">Aristides Rodríguez</span> 👋</div>
+# <div align="center">Hello World 👋 I'm Aristides Rodríguez</div>
+![banner ArisRdz](banner-aristidesrdz.png)
 
 ## 👨🏻‍💻 About Me:
 <div align="justify">
