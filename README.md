@@ -1,3 +1,6 @@
+<img align="right" src="https://visitcount.itsvg.in/api?id=ArisRdz&icon=0&color=0)](https://visitcount.itsvg.in" />
+<!-- Visit counter ------------------------------------------------------------------------------------------------------------------------------------------------------->
+
 # <div align="center">{ Hello World } 👋 I'm Aristides Rodríguez</div>
 ![banner Aristides Rodriguez](banner-aristidesrdz-fed.png)
 
@@ -38,9 +41,7 @@ I am a young software developer with a great passion for programming and a stron
 
 </div>
 
-<!-- Visit counter ------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-[![](https://visitcount.itsvg.in/api?id=ArisRdz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!--**ArisRdz/ArisRdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
