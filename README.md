@@ -1,4 +1,4 @@
-<img align="right" src="https://visitcount.itsvg.in/api?id=ArisRdz&icon=0&color=0)](https://visitcount.itsvg.in" />
+<img align="right" src="https://visitcount.itsvg.in/api?id=arisrodriguez&icon=0&color=0)](https://visitcount.itsvg.in" />
 <!-- Visit counter ------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 # <div align="center">{ Hello World } 👋 I'm Aristides Rodríguez</div>
@@ -25,19 +25,19 @@ I am a young software developer with a great passion for programming and a stron
 
 ## 📊 GitHub Stats:
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ArisRdz&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="ArisRdz github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arisrodriguez&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="ArisRdz github stats" /> 
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArisRdz&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisrodriguez&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
 </div> 
 <p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=ArisRdz&theme=tokyonight_duo&hide_border=true"
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=arisrodriguez&theme=tokyonight_duo&hide_border=true"
 </p>
 
 ## 🔝 Top Contributed Repo:
 
 <div align="center">
   
-![](https://github-contributor-stats.vercel.app/api?username=ArisRdz&limit=5&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=arisrodriguez&limit=5&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117&combine_all_yearly_contributions=true)
 
 </div>
 
