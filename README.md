@@ -30,7 +30,6 @@ I am a software developer passionate about programming and committed to professi
 <p align="center">
  <img src="https://streak-stats.demolab.com?user=arisrodriguez&theme=tokyonight_duo&hide_border=true" />
 </p> -->
-## 📊 GitHub Stats
 
 <div align="center">  
   <!-- Stats -->
