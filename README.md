@@ -31,27 +31,10 @@ I am a software developer passionate about programming and committed to professi
  <img src="https://streak-stats.demolab.com?user=arisrodriguez&theme=tokyonight_duo&hide_border=true" />
 </p> 
 
-## 🔝 Top Contributed Repo:
-
+<!--## 🧠 Main Languages
 <div align="center">
-  
-![](https://github-contributor-stats.vercel.app/api?username=arisrodriguez&limit=5&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117&combine_all_yearly_contributions=true)
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arisrodriguez&theme=dark)
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/languages?username=arisrodriguez&theme=dark)
-
-</div>
-
-## 🧠 Main Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,html,css,sql" />
-</div>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,php,html,css,sql" />
+</div>-->
 
 
 
