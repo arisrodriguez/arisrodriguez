@@ -1,47 +1,106 @@
-# <div align="center">{ Hello World } 👋 I'm Aristides Rodríguez</div>
-![banner Aristides Rodriguez](banner-aristidesrdz-fed.png)
+![banner Aristides Rodriguez](banner-aris-dev-2.png)
 
-## 👨🏻‍💻 About Me:
+## 👨🏻‍💻 About Me
+
 <div align="justify">
-I am a software developer passionate about programming and committed to professional growth. I specialize in tackling technical challenges and adopting new technologies to design innovative solutions. I am dedicated to continuous learning and strive to contribute value to projects that enhance my skills and knowledge in the field of software development.
+
+Software Developer from Panama focused on building modern, scalable, and user-centered web applications.
+
+I enjoy transforming ideas into polished digital products by combining clean code, intuitive interfaces, and modern technologies. My main focus is web development with React, Next.js, and Tailwind CSS, while continuously learning and improving my skills through real-world projects.
+
 </div>
+
 <br/>
 
 <div align="center">
-  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/soyizzat) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/soyizzat) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@soyizzat) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uRRk3BBPgq) 
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827.svg?style=flat&logo=vercel&logoColor=white)](https://a-r-dev.vercel.app)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aristides-rodriguez-pa)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335.svg?style=flat&logo=gmail&logoColor=white)](mailto:aris.devx@gmail.com)
 
 </div>
 
-## 💻 Tech Stack:
+<br/>
+
+## 💻 Tech Stack
+
 <div align="center">
-  
-![Next.js](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) <!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) --> ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  <!-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) --> ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) <!--![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) --> ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### Frontend
+
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend, Data & APIs
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=insomnia&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
-## 📊 GitHub Stats:
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arisrodriguez&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1" alt="arisrodriguez github stats" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisrodriguez&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117&cache_seconds=1" />
-</div>
+<br/>
 
-<p align="center">
- <img src="https://streak-stats.demolab.com?user=arisrodriguez&theme=tokyonight_duo&hide_border=true" />
-</p> 
+## 🚀 Featured Projects
 
-<!--## 🧠 Main Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,php,html,css,sql" />
-</div>-->
+
+| Project | Description |
+|---|---|
+| 🏃 **Hermes App** | Running calculator for training zones, pace, and heart rate analysis. |
+| 💪 **MacroFit** | Web application to calculate personalized macronutrient goals. |
+| 🌐 **Portfolio** | Personal developer portfolio built with Next.js and Tailwind CSS. |
+
+<!--
+| ✨ **Stellify** | Personalized constellation experience based on meaningful moments. |
+| 📚 **Lecturify** | Digital library application powered by Google Books API. |
+-->
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<table align="center">
+<tr>
+
+<td>
+<img 
+width="450px"
+src="https://github-readme-stats-eight-theta.vercel.app/api?username=arisrodriguez&show_icons=true&hide_border=true&title_color=02D9F7&icon_color=02D9F7&text_color=c9d1d9&bg_color=0d1117"
+/>
+</td>
+
+<td>
+<img 
+width="380px"
+src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arisrodriguez&layout=compact&hide_border=true&title_color=02D9F7&text_color=c9d1d9&bg_color=0d1117&langs_count=8"
+/>
+</td>
+
+</tr>
+</table>
 
 
+<img 
+src="https://streak-stats.demolab.com?user=arisrodriguez&hide_border=true&background=0d1117&ring=02D9F7&fire=02D9F7&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=02D9F7&sideLabels=c9d1d9&dates=8b949e"
+/>
 
-<!-- Visit counter ------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!-- <img align="" src="https://visitcount.itsvg.in/api?id=arisrodriguez&icon=0&color=0)](https://visitcount.itsvg.in" /> -->
-<img src="https://komarev.com/ghpvc/?username=arisrodriguez" />
-
-
-<!--**ArisRdz/ArisRdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
+</div>
