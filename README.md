@@ -1,4 +1,4 @@
-![banner Aristides Rodriguez](banner-aris-dev.png)
+![banner Aristides Rodriguez](banner-aris-dev-x.png)
 
 ## 👨🏻‍💻 About Me
 
